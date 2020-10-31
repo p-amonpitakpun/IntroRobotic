@@ -1,0 +1,4 @@
+[submodule "opencv_contrib"]
+	branch = 4.5.0
+[submodule "opencv"]
+	branch = 4.5.0
